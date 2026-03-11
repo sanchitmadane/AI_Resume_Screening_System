@@ -1,0 +1,6 @@
+AI Resume Screening System
+
+Files:
+- resume_screening_nlp.ipynb → Main project notebook
+- README.md → Project explanation
+- requirements.txt → Required libraries
